@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Readme"
             }
-          },
-          {
-            "id": "122abdf1ef9769f1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "122abdf1ef9769f1",
+  "active": "41e5a155445b1709",
   "lastOpenFiles": [
     "CLAUDE.md",
     "raw/notes/Readme.md",
